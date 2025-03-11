@@ -20,7 +20,7 @@ Ensure you have the following installed:
 
 ## How to Run the Project
 1. Clone the repository:
-git clone https://github.com/pranjalparmar23/college-prediction.git
+git clone https://github.com/pranjalparmar23/college-shiksha.git
 2. Copy the folder into the **htdocs** folder in your **XAMPP** directory.
 3. Start **Apache** and **MySQL** services from the XAMPP control panel.
 4. Navigate to the following URL in your browser:
